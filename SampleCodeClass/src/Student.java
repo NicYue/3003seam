@@ -36,6 +36,8 @@ public class Student {
     void myTest(){
     	System.out.println("Reverted aftermath");
     }
+
+    void countAll(){ return 0; }
    
     void testAll()
  {
