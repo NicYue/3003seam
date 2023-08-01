@@ -32,8 +32,6 @@ public class Student {
         System.out.println("Testing...");
 
     }
-
-    void myTest(){ System.out.println("Revert this."); }
    
     void testAll()
  {
