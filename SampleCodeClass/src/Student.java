@@ -33,7 +33,7 @@ public class Student {
 
     }
 
-    void myTest();
+    void myTest(){ System.out.println("First change"); }
    
     void testAll()
  {
