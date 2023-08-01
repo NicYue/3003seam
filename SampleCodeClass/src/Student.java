@@ -33,15 +33,11 @@ public class Student {
 
     }
 
-<<<<<<< HEAD
     void myTest()
     { 
 	System.out.println("First change"); 
 	System.out.println("Revert this");
     }
-=======
-    void myTest();
->>>>>>> parent of 62685d4 (Update Student.java)
    
     void testAll()
  {
